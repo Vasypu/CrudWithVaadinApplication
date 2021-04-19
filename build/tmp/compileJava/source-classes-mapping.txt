@@ -1,0 +1,11 @@
+com/example/crudwithvaadin/CrudWithVaadinApplication.java
+ com.example.crudwithvaadin.CrudWithVaadinApplication
+com/example/crudwithvaadin/MainView.java
+ com.example.crudwithvaadin.MainView
+com/example/crudwithvaadin/CustomerRepository.java
+ com.example.crudwithvaadin.CustomerRepository
+com/example/crudwithvaadin/Customer.java
+ com.example.crudwithvaadin.Customer
+com/example/crudwithvaadin/CustomerEditor.java
+ com.example.crudwithvaadin.CustomerEditor
+ com.example.crudwithvaadin.CustomerEditor$ChangeHandler
